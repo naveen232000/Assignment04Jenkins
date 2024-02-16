@@ -1,0 +1,14 @@
+D:\Mphasis\Phase 3\16fib\Assignment04Jenkins\Assignment04Jenkins\obj\Debug\net6.0\Assignment04Jenkins.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mphasis\Phase 3\16fib\Assignment04Jenkins\Assignment04Jenkins\obj\Debug\net6.0\Assignment04Jenkins.AssemblyInfoInputs.cache
+D:\Mphasis\Phase 3\16fib\Assignment04Jenkins\Assignment04Jenkins\obj\Debug\net6.0\Assignment04Jenkins.AssemblyInfo.cs
+D:\Mphasis\Phase 3\16fib\Assignment04Jenkins\Assignment04Jenkins\obj\Debug\net6.0\Assignment04Jenkins.csproj.CoreCompileInputs.cache
+D:\Mphasis\Phase 3\16fib\Assignment04Jenkins\Assignment04Jenkins\bin\Debug\net6.0\Assignment04Jenkins.exe
+D:\Mphasis\Phase 3\16fib\Assignment04Jenkins\Assignment04Jenkins\bin\Debug\net6.0\Assignment04Jenkins.deps.json
+D:\Mphasis\Phase 3\16fib\Assignment04Jenkins\Assignment04Jenkins\bin\Debug\net6.0\Assignment04Jenkins.runtimeconfig.json
+D:\Mphasis\Phase 3\16fib\Assignment04Jenkins\Assignment04Jenkins\bin\Debug\net6.0\Assignment04Jenkins.dll
+D:\Mphasis\Phase 3\16fib\Assignment04Jenkins\Assignment04Jenkins\bin\Debug\net6.0\Assignment04Jenkins.pdb
+D:\Mphasis\Phase 3\16fib\Assignment04Jenkins\Assignment04Jenkins\obj\Debug\net6.0\Assignment04Jenkins.dll
+D:\Mphasis\Phase 3\16fib\Assignment04Jenkins\Assignment04Jenkins\obj\Debug\net6.0\refint\Assignment04Jenkins.dll
+D:\Mphasis\Phase 3\16fib\Assignment04Jenkins\Assignment04Jenkins\obj\Debug\net6.0\Assignment04Jenkins.pdb
+D:\Mphasis\Phase 3\16fib\Assignment04Jenkins\Assignment04Jenkins\obj\Debug\net6.0\Assignment04Jenkins.genruntimeconfig.cache
+D:\Mphasis\Phase 3\16fib\Assignment04Jenkins\Assignment04Jenkins\obj\Debug\net6.0\ref\Assignment04Jenkins.dll
